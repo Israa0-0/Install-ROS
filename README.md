@@ -9,7 +9,8 @@ https://ubuntu.com/download/desktop/thank-you?version=22.04&architecture=amd64
 
 3. Launch VirtualBox and click “Import” on the top toolbar, then click the file icon.
 
-4. Select the image you’ve downloaded and click “Next”.
+
+4. Select the file Ubuntu you’ve downloaded and click “Next”.
 5. Leave everything as default and click “Import”.
 
 6. Select settings then navigate to “System”. On the motherboard tab, adjust the base
